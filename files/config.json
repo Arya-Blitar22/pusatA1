@@ -1,0 +1,15 @@
+{
+	"tcp_std": [
+		8880, 2052, 2082, 2086, 2095
+	],
+	"tcp_ssl": [
+		2053, 2083, 2087, 2096, 8443
+	],
+	"ssl_cert": "/etc/noobzvpns/cert.pem",
+	"ssl_key": "/etc/noobzvpns/key.pem",
+	"ssl_version": "AUTO",
+	"conn_timeout": 30,
+	"dns_resolver": "/etc/resolv.conf",
+	"http_ok": "HTTP/1.1 101 Switching Protocols[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]"
+}
+
