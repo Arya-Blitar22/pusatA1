@@ -21,7 +21,7 @@ KT='\e[38;5;187m' # KONENG TARIGU
 Suffix='\e[0m'
 clear
 clear
-echo "$username" >/usr/bin/user
+#echo "$username" >/usr/bin/user
 ssh_service=$(/etc/init.d/ssh status | grep Active | awk '{print $3}' | cut -d "(" -f2 | cut -d ")" -f1)
 #dropbear_service=$(/etc/init.d/dropbear status | grep Active | awk '{print $3}' | cut -d "(" -f2 | cut -d ")" -f1)
 haproxy_service=$(systemctl status haproxy | grep Active | awk '{print $3}' | cut -d "(" -f2 | cut -d ")" -f1)
@@ -108,7 +108,7 @@ echo -e "  ${UK}┌────────────────────�
 echo -e "  ${UK}│${Suffix} SSH-WS :${Suffix} $status_ssh ${UK}│${Suffix} XRAY :${Suffix} $status_xray ${UK}│${Suffix} NGINX :${Suffix} $status_nginx ${UK}│${Suffix}   ${R2}$status_haproxy     ${UK}│"
 echo -e "  ${UK}└───────────────────────────────────────────────────┘${Suffix}"
 echo -e "     ${UK}┌─────────────────────────────────────────────┐${Suffix}"
-echo -e "     ${UK}│${Suffix} ${BC}ID     :${Suffix}${Blu_Cy} $(cat /usr/bin/user)${Suffix}"
+#echo -e "     ${UK}│${Suffix} ${BC}ID     :${Suffix}${Blu_Cy} $(cat /usr/bin/user)${Suffix}"
 echo -e "     ${UK}│${Suffix} ${BC}Script : Lifletime"
 echo -e "     ${UK}└─────────────────────────────────────────────┘${Suffix}"
 }
