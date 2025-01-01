@@ -4,7 +4,7 @@ HAPPY NEWYEAR 2024
 ### Wajib Makek Domain Sendiri
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++A+R+Y+A++B+L+I+T+A+R" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+A+P+P+Y+++N+E+W+++Y+Y+E+A+R++2025" />
 </p>
 
 ````
