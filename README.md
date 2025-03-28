@@ -20,7 +20,7 @@ REKOMONDASI MAKEK DOMAIN SENDIRI
 Bisa Donasi Seikhlasnya 🤣
 
 ### Youtube Tutorial Terbaru
-https://youtu.be/SATdvbXFmfo
+https://youtu.be/OVbyvBec3B4
 
 
 Sedia AkunSsh Premium 10k isp indo & Sgdo
