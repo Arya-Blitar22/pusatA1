@@ -21,7 +21,7 @@ REKOMONDASI MAKEK DOMAIN SENDIRI
 Bisa Donasi Seikhlasnya 🤣
 
 ### Youtube Tutorial Terbaru
-https://youtu.be/BuGAMLup55s
+https://youtu.be/f9T4chM6Ac8
 
 ### Pointing domain ke wilcard
 
