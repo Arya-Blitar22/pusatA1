@@ -1,7 +1,8 @@
 ````
 HAPPY NEWYEAR 2025
 ````
-### Sementra yg gk punya domain bisa makek yg dari script ya guys..
+### ## BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA 081931615811
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+A+P+P+Y+++N+E+W+++Y+Y+E+A+R++2025" />
