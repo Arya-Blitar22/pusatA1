@@ -15,7 +15,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/pusatA1/main/sct.png)
 
 
-SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10 / UBUNTU 20.04 LANGSUNG INSTALL AJA!!!
+SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10,11 / UBUNTU 18, 20.04 LANGSUNG INSTALL AJA!!!
 REKOMONDASI MAKEK DOMAIN SENDIRI
 
 Bisa Donasi Seikhlasnya 🤣
