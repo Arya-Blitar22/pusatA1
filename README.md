@@ -22,7 +22,7 @@ Bisa Donasi Seikhlasnya 🤣
 
 ### Youtube Tutorial Terbaru
 
-https://youtu.be/1L6Jm9mZR0g
+https://youtube.com/@arisstyachannel?si=8I1AD4Uysoboe9jv
 
 ### Pointing domain ke wilcard
 
