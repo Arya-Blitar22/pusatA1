@@ -3,7 +3,7 @@ HAPPY NEWYEAR 2026
 ````
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+A+P+P+Y+++N+E+W+++Y+Y+E+A+R++2025" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+A+P+P+Y+++N+E+W+++Y+Y+E+A+R++2026" />
 </p>
 
 ````
