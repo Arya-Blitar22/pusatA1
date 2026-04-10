@@ -1,8 +1,6 @@
 ````
-HAPPY NEWYEAR 2025
+HAPPY NEWYEAR 2026
 ````
-### BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA +6281450330727
-
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+A+P+P+Y+++N+E+W+++Y+Y+E+A+R++2025" />
@@ -22,7 +20,7 @@ Bisa Donasi Seikhlasnya 🤣
 
 ### Youtube Tutorial Terbaru
 
-https://youtube.com/@arisstyachannel?si=8I1AD4Uysoboe9jv
+https://youtube.com/@arissetyachannel?si=jy7rAWhdRZGasEGR
 
 ### Pointing domain ke wilcard
 
