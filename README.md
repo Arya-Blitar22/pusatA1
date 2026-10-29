@@ -34,11 +34,17 @@ READY Akun Ssh Premium
 # Server Host
 
 ➲ ID Aren-Host ➠ 10k 30hari 🇮🇩
+
 ➲ ID PT Rajamitra  ➠ 10k 30hari 🇮🇩
+
 ➲ ID Media Antar Nusa➠ 10k 30hari 🇮🇩
+
 ➲ ID Biznet Gio Nusantara  ➠ 10k 30hari 🇮🇩
+
 ➲ SG NewMedia Express Pte ➠ 10k 30hari 🇸🇬
+
 ➲ ID PT Atlantic Aksa Group ➠ 10k 30hari  🇮🇩
+
 ➲ PT Infinys System Indonesia ➠ 10k 30hari  🇮🇩
 
 - ATURAN : ⭐ Max 2hp / 2 Device
